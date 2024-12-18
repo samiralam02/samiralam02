@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Samir Alam
 
-<!--
-**samiralam02/samiralam02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:  
+  - A **Hotel Inventory Management System** using PHP, MySQL, and AWS.  
+  - Automating AWS EC2 instance management with Python and Boto3.  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:  
+  - Advanced Docker for cloud deployments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on:  
+  - Open-source projects involving cloud computing or cybersecurity.  
+
+- 💬 Ask me about:  
+  - AWS services (EC2, S3, RDS, CloudTrail).  
+  - Building dynamic web applications with PHP and MySQL.  
+
+- 📫 How to reach me:  
+  - [LinkedIn](https://www.linkedin.com/in/samir-alam-5176b527b/)  
+  - [Email](sam02samir@gmail.com)  
+
+- ⚡ Fun fact:  
+  - I deployed my first live cloud project at the age of 22! 🎉
